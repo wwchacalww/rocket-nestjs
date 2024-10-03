@@ -10,7 +10,9 @@
 - [X] Gerando hash da senha
 - [X] Criando Pipe de validação
 - [X] Usando ConfigModule no Nestjs
-- [ ] Configurando autenticação JWT
-- [ ] Gerando Token JWT
+- [X] Configurando autenticação JWT
+- [X] Gerando Token JWT
 - [ ] Controller de autenticação
 - [ ] Protegendo Rotas com guards
+- [ ] Criando decorator de autenticação
+- [ ] Controller de criação de perguntas
