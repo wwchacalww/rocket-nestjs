@@ -12,7 +12,8 @@
 - [X] Usando ConfigModule no Nestjs
 - [X] Configurando autenticação JWT
 - [X] Gerando Token JWT
-- [ ] Controller de autenticação
-- [ ] Protegendo Rotas com guards
+- [X] Controller de autenticação
+- [X] Protegendo Rotas com guards
 - [ ] Criando decorator de autenticação
 - [ ] Controller de criação de perguntas
+- [ ] Controller de listagem de pergutas
