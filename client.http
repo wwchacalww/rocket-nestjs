@@ -29,3 +29,15 @@ POST {{baseUrl}}/questions
 Content-Type: application/json
 Authorization: Bearer {{authToken}}
 
+{
+  "title":"Terceira pergunta",
+  "content":"Quem é o cachorro mais lindo do mundo?"
+}
+
+###
+
+# @name fetch_recente_questions
+GET {{baseUrl}}/questions?page=2
+Content-Type: application/json
+Authorization: Bearer {{authToken}}
+

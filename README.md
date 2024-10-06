@@ -14,6 +14,10 @@
 - [X] Gerando Token JWT
 - [X] Controller de autenticação
 - [X] Protegendo Rotas com guards
-- [ ] Criando decorator de autenticação
-- [ ] Controller de criação de perguntas
-- [ ] Controller de listagem de pergutas
+- [X] Criando decorator de autenticação
+- [X] Controller de criação de perguntas
+- [X] Controller de listagem de pergutas
+- [X] Configurando Vitest com SWC
+- [X] Banco de Dados isolado nos testes
+- [X] Testes E2E de Usuários
+- [X] Testes E2E de Perguntas
